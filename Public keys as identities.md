@@ -50,13 +50,16 @@ Now, having message recipients be known only by a public key presents an obvious
 이제, 공개키로만 메시지 수신자를 알게되면 명백한 문제가 발생합니다. 메시지를 정확한 컴퓨터로 배달할 방법이 없습니다.
 
 This leads to a massive inefficiency in Chaum’s proposal, which can be traded off against the level of anonymity but not eliminated. 
+이는 차움의 제안에 엄청난 비효율성을 가져오는데, 익명성의 수준에 반하여 제거될뿐아니라 상쇄 될 수 있습니다.
 
 Bitcoin is similarly exceedingly inefficient compared with centralized payment systems: the ledger containing every transaction is maintained by every node in the system. 
+비트코인은 중앙집중적 지불 시스템과 비교하여도 마찬가지로 비효율적입니다. 모든 트랜잭션을 포함하는 장부는 시스템의 모든 노드에서 관리됩니다.
 
 Bitcoin incurs this inefficiency for security reasons anyway, and thus achieves pseudonymity (i.e, public keys as identities) “for free.” 
+비트코인은 어쨌든 보안상의 이유로 비효율적인 결과를 초래하기 때문에, 가명(예를들어, 신원증명으로써의 공개키)을 "무료"로 제공합니다.
 
-Chaum took these ideas much further in a 1985 paper,11 where he presents a vision of privacy-preserving e-commerce based on pervasive pseudonyms, as well as “blind signatures,” the key technical idea behind his digital cash.
-
+Chaum took these ideas much further in a 1985 paper, where he presents a vision of privacy-preserving e-commerce based on pervasive pseudonyms, as well as “blind signatures,” the key technical idea behind his digital cash.
+차움은 이런 개념을 1985년 논문에서 더 받아들였습니다. 여기서 그는 개인정보 보호 
 
 The public-keys-as-identities idea is also seen in b-money and bit gold, the two precursor essays to bitcoin discussed earlier. 
 
