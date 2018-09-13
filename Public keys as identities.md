@@ -73,5 +73,7 @@ The cypherpunks were keenly interested in privacy-preserving communication and c
 But to them, nyms weren’t mere cryptographic identities (i.e., public keys), but rather, usually email addresses that were linked to public keys. 
 
 Similarly, Ian Goldberg’s dissertation, which became the basis of much future work on anonymous communication, recognizes Chaum’s idea but suggests that nyms should be human-memorable nicknames with certificates to bind them.
+비슷하게, 익명의 의사 소통에 대한 많은 연구의 기초가 된 Ian Goldberg의 논문은 Chaum의 생각을 인정하지만, nyms는 
 
 Thus Bitcoin proved to be the most successful instantiation of Chaum’s idea. 
+따라서 Bitcoin은 Chaum의 아이디어를 가장 성공적으로 인스턴스화 한 것으로 입증되었습니다.
