@@ -59,9 +59,12 @@ Bitcoin incurs this inefficiency for security reasons anyway, and thus achieves 
 비트코인은 어쨌든 보안상의 이유로 비효율적인 결과를 초래하기 때문에, 가명(예를들어, 신원증명으로써의 공개키)을 "무료"로 제공합니다.
 
 Chaum took these ideas much further in a 1985 paper, where he presents a vision of privacy-preserving e-commerce based on pervasive pseudonyms, as well as “blind signatures,” the key technical idea behind his digital cash.
-차움은 이런 개념을 1985년 논문에서 더 받아들였습니다. 여기서 그는 개인정보 보호 
+차움은 이런 개념을 1985년 논문에서 더 받아들였습니다. 퍼블릭 가명에 기반한 개인 정보 보호 전자 상거래와 과거 그의 디지털 현금의 핵심 기술 아이디어 인 "blind signatures"을 제시했습니다. 
+
+주) https://en.wikipedia.org/wiki/Blind_signature
 
 The public-keys-as-identities idea is also seen in b-money and bit gold, the two precursor essays to bitcoin discussed earlier. 
+신원증명 공개키 아이디어는 이전에 논의 된 비트 코인에 대한 두 개의 선구자 에세이 인 b-money와 bit gold에서도 볼 수 있습니다.
 
 However, much of the work that built on Chaum’s foundation, as well as Chaum’s own later work on ecash, moved away from this idea. 
 
