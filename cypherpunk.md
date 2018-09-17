@@ -50,20 +50,17 @@ http://wiki.hash.kr/index.php/사이퍼펑크
 !["Hal Finney"](http://wiki.hash.kr/images/7/7f/Hal_Finney.jpg)
 !["Wei Dai"](http://wiki.hash.kr/images/5/57/Wei_Dai.jpg)
 
-데이비드 차움(David Chaum)	
-아담 백(Adam Back)
-할 피니(Hal Finney)
-웨이 다이(Wei Dai)
+데이비드 차움(David Chaum), 아담 백(Adam Back), 할 피니(Hal Finney), 웨이 다이(Wei Dai)
 
 사이퍼펑크의 주요 인물은 다음과 같다.
 
-데이비드 차움(David Chaum) : 1990년 디지캐시(digicash)라는 회사를 설립하고 최초의 상업적 암호화폐인 이캐시(ecash)를 창시했다.[6]
-필 짐머만(Phil Zimmermann) : 1991년 PGP[7]라는 이메일 암호화 소프트웨어를 개발했다.
-에릭 휴즈(Eric Hughes) : 1992년 사이퍼펑크 모임을 시작하고, 1993년 〈사이퍼펑크 선언〉(A Cypherpunk's Manifesto)을 발표했다.
-아담 백(Adam Back) : 1997년 익명성을 보장하고 이중지불을 방지할 수 있는 해시캐시(hashcash)라는 암호화폐를 만들었다. 블록스트림을 창업하고 블록체인 새틀라이트 서비스를 시작했다.
-웨이 다이(Wei Dai) : 1998년 익명성과 분산 방식의 암호화폐인 비머니(B-Money)를 고안했다.
-닉 재보(Nick Szabo) : 1998년 스마트 계약 기반의 암호화폐인 비트골드(bit gold)를 고안했다.
-줄리언 어산지(Julian Assange) : 2006년 내부 고발자 사이트인 위키리크스를 창립했다.
-사토시 나카모토(Satoshi Nakamoto) : 2008년 11월 비트코인 백서[8]를 작성하고, 이듬해인 2009년 1월 블록체인 기술을 적용한 최초의 암호화폐인 비트코인(bitcoin)을 개발했다.[9]
-할 피니(Hal Finney) : 2009년 사토시 나카모토로부터 최초로 비트코인을 전송받았고, 개인 PC를 이용해 비트코인을 채굴했다.
-에드워드 스노든(Edward Snowden) : 미국 중앙정보국(CIA)과 미국 국가안보국(NSA)에서 근무하던 컴퓨터 기술자로서, 미국 내 통화감찰 기록과 다양한 기밀문서를 폭로했다. 2013년 망명했다.
++ 데이비드 차움(David Chaum) : 1990년 디지캐시(digicash)라는 회사를 설립하고 최초의 상업적 암호화폐인 이캐시(ecash)를 창시했다.[6]
++ 필 짐머만(Phil Zimmermann) : 1991년 PGP[7]라는 이메일 암호화 소프트웨어를 개발했다.
++ 에릭 휴즈(Eric Hughes) : 1992년 사이퍼펑크 모임을 시작하고, 1993년 〈사이퍼펑크 선언〉(A Cypherpunk's Manifesto)을 발표했다.
++ 아담 백(Adam Back) : 1997년 익명성을 보장하고 이중지불을 방지할 수 있는 해시캐시(hashcash)라는 암호화폐를 만들었다. 블록스트림을 창업하고 블록체인 새틀라이트 서비스를 시작했다.
++ 웨이 다이(Wei Dai) : 1998년 익명성과 분산 방식의 암호화폐인 비머니(B-Money)를 고안했다.
++ 닉 재보(Nick Szabo) : 1998년 스마트 계약 기반의 암호화폐인 비트골드(bit gold)를 고안했다.
++ 줄리언 어산지(Julian Assange) : 2006년 내부 고발자 사이트인 위키리크스를 창립했다.
++ 사토시 나카모토(Satoshi Nakamoto) : 2008년 11월 비트코인 백서[8]를 작성하고, 이듬해인 2009년 1월 블록체인 기술을 적용한 최초의 암호화폐인 비트코인(bitcoin)을 개발했다.[9]
++ 할 피니(Hal Finney) : 2009년 사토시 나카모토로부터 최초로 비트코인을 전송받았고, 개인 PC를 이용해 비트코인을 채굴했다.
++ 에드워드 스노든(Edward Snowden) : 미국 중앙정보국(CIA)과 미국 국가안보국(NSA)에서 근무하던 컴퓨터 기술자로서, 미국 내 통화감찰 기록과 다양한 기밀문서를 폭로했다. 2013년 망명했다.
