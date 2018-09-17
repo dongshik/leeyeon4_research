@@ -44,7 +44,7 @@ http://wiki.hash.kr/index.php/사이퍼펑크
 위 선언문 중에서 특히 "사이퍼펑크는 코드를 개발한다."(Cypherpunks write code.)라는 문장은 사이퍼펑크 운동을 상징하는 유명한 문구가 되었다. 실제로 사이퍼펑크 운동가들은 자신의 사상을 현실에서 구현하기 위해 코드를 작성했고, 그 결과 2009년 1월 블록체인 기반의 암호화폐인 비트코인이 탄생했다.
 
 주요 인물
-<img width="20" height="15">![Alt text](http://wiki.hash.kr/images/c/ca/David_Chaum.jpg)</img>
+<img width="20" height="15">!(http://wiki.hash.kr/images/c/ca/David_Chaum.jpg)</img>
 
 데이비드 차움(David Chaum)	
 Adam Back.jpg
