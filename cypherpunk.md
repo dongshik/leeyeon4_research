@@ -44,13 +44,17 @@ http://wiki.hash.kr/index.php/사이퍼펑크
 위 선언문 중에서 특히 "사이퍼펑크는 코드를 개발한다."(Cypherpunks write code.)라는 문장은 사이퍼펑크 운동을 상징하는 유명한 문구가 되었다. 실제로 사이퍼펑크 운동가들은 자신의 사상을 현실에서 구현하기 위해 코드를 작성했고, 그 결과 2009년 1월 블록체인 기반의 암호화폐인 비트코인이 탄생했다.
 
 주요 인물
-<img width="2" height="2">!["David Chaum"](http://wiki.hash.kr/images/c/ca/David_Chaum.jpg)</img>
+
+!["David Chaum"](http://wiki.hash.kr/images/c/ca/David_Chaum.jpg)
+!["Adam Back"](http://wiki.hash.kr/images/e/e3/Adam_Back.jpg)
+!["Hal Finney"](http://wiki.hash.kr/images/7/7f/Hal_Finney.jpg)
+!["Wei Dai"](http://wiki.hash.kr/images/5/57/Wei_Dai.jpg)
 
 데이비드 차움(David Chaum)	
-Adam Back.jpg
-아담 백(Adam Back)	Hal Finney.jpg
-할 피니(Hal Finney)	Wei Dai.jpg
-웨이 다이(Wei Dai)]]	
+아담 백(Adam Back)
+할 피니(Hal Finney)
+웨이 다이(Wei Dai)
+
 사이퍼펑크의 주요 인물은 다음과 같다.
 
 데이비드 차움(David Chaum) : 1990년 디지캐시(digicash)라는 회사를 설립하고 최초의 상업적 암호화폐인 이캐시(ecash)를 창시했다.[6]
