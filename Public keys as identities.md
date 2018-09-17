@@ -1,12 +1,16 @@
 ### Public keys as identities
 
 This article began with the understanding that a secure ledger makes creating digital currency straightforward. 
+이 글은 보안 원장이 디지털 통화를 쉽게 만들 수 있다라는 이해에서 시작했습니다.
 
 Let’s revisit this claim. 
+이 주장을 다시 확인해 보겠습니다.
 
 When Alice wishes to pay Bob, she broadcasts the transaction to all bitcoin nodes. 
+Alice가 Bob에게 지불하기를 원할때, 모든 비트코인 노드들에게 트랜잭션을 브로드 캐시팅합니다.
 
 A transaction is simply a string: a statement encoding Alice’s wish to pay Bob some value, signed by her. 
+트랜잭션은 단순한 문자열입니다. 이는 Alice에 의해 서명된 Bob에게 어떤 값을 지불하기를 원하는 설명의 인코딩입니다.
 
 The eventual inclusion of this signed statement into the ledger by miners is what makes the transaction real. 
 
